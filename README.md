@@ -1,4 +1,4 @@
 Android-Project-Theme
 =====================
 
-Change Android application project Thme
+Change theme on Android application project
